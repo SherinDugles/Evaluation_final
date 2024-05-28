@@ -12,6 +12,7 @@ int main() {
     sum = num1 + num2 +num4+num5+num6+num8;
     
     printf("The sum of %d and %d is %d.", num1, num2, sum);
+    printf("WE GOT THE ANSWER!!!")
     
     
 }
